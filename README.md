@@ -8,14 +8,6 @@ I’m an active university student passionate about **game development, physics,
 - 🛡️ Developing a Unity 2D game with my **DREVA team** — code name **“Trader”**, a medieval post-apocalyptic trading adventure.
 - 🧪 Exploring physics through **simulations** and **experimental side projects**.
 - 🎓 Currently **a third-year Computer Science student**.
-
-## 🛠️ Tech Stack & Skills
-
-- C#
-- Unity
-- C++
-- Python
-- MySQL
 - Always learning something new 👀
 
 
