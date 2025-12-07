@@ -1,4 +1,24 @@
-## Hi there 👋
+## 👋 Hey, I’m Sviat!
+
+**Welcome to my GitHub page!**
+I’m an active university student passionate about **game development, physics, backend engineering, machine learning, and robotics.**
+
+## 🚀 What I’m Working On
+
+- 🛡️ Developing a Unity 2D game with my **DREVA team** — code name **“Trader”**, a medieval post-apocalyptic trading adventure.
+- 🧪 Exploring physics through **simulations** and **experimental side projects**.
+- 🎓 Currently **a third-year Computer Science student**.
+
+## 🛠️ Tech Stack & Skills
+
+- C#
+- Unity
+- C++
+- Python
+- MySQL
+- Always learning something new 👀
+
+
 
 <!--
 **Sviston/Sviston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
